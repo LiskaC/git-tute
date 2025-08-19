@@ -6,3 +6,8 @@ for practising git
 
 - Checking out new branch and making PR.
 - but also, adding comments and giving feedback
+
+New Changes
+- Earth
+- Wind
+- Fire

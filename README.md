@@ -9,3 +9,8 @@ for practising git
 
 
 - Git practice in the CLI is essential.
+
+New Changes
+- Earth
+- Wind
+- Fire

@@ -7,6 +7,9 @@ for practising git
 - Checking out new branch and making PR.
 - but also, adding comments and giving feedback
 
+
+- Git practice in the CLI is essential.
+
 New Changes
 - Earth
 - Wind

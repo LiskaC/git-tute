@@ -4,5 +4,5 @@ for practising git
 
 - what is git vs github
 
-- checking out new branch and making PR
+- Checking out new branch and making PR.
 - but also, adding comments and giving feedback
